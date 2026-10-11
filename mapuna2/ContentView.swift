@@ -1,21 +1,8 @@
-//
-//  ContentView.swift
-//  mapuna2
-//
-//  Created by Rugeyye Çifci on 30.08.2026.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        LoginView()
     }
 }
 

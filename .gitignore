@@ -1,0 +1,14 @@
+# Firebase
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# Xcode
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+
